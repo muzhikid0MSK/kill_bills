@@ -3,4 +3,6 @@
 
     <string name="notification_channel_name">alive_channel</string>
     <string name = "notification_channel_description">kill bills</string>
+    <string name = "alive_notification_title">杀死比尔</string>
+    <string name = "alive_notification_content">杀死比尔</string>
 </resources>
